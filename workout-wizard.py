@@ -39,7 +39,7 @@ def main():
 
     elif status == "End":
         end_time = datetime.now()
-        with open(f"times/{today}_start") as f:
+        with open(f"{today}_start") as f:
             start_time = datetime.fromisoformat(f.read())
         end_workout(start_time, end_time)
 
