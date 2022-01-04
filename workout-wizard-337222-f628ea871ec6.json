@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "workout-wizard-337222",
+  "private_key_id": "f628ea871ec61b2408f13c3d658b99e6b3a61000",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDIVBfXvjlU1qux\nP5RrhtbMgSap0qBrFL/1P78MSdl5sfZrme3ACDxerL+KqpiUbWoCLwqxukKJ1E1W\n/3bDmylv+zTWD7UNb46UL2atZUU9tO6DlR9ySGzL4Ze5wDSkdl7g3rVy/LITk6g2\neJI6fgglKS6srQbvRmWyqdiWpgbBp/RJoZ9nQ57SrSYGwsY0xeGlt7m83vWsnn8X\n3d+U4VfmdjlgL4yZB3ZmUCZsINS9SVa8OWRl4hCfl7pFvRGoYseDxu8ul+6zF7GP\nFNiejnt3foqwcQaq+/Xx0ZYlgMrwUudZxl+XYNocJsdvrwBVGzzjXistKvtgJ35z\nXdc1gQyHAgMBAAECggEAYUBNyNsciv6iICys+Vxe163VHrlVTlam78DwFt+dF5KY\n/diezkxRPmbfn8o8w0WwonnC19AD8FRj7Vmchs5DGg1aM5cxfmHLVk4CqyfQKuo0\npiVVPE5DnuCYH0FbbQHYApOrg7SAILfcgAEdgA7iFmQ9N+/Rv4Qt58PDlTLpccYj\nCkq+ck95u/O2Lwo1qn9sk+aNPvCU7TOXGMifJCW1afX6PfWrqKhb49z2WR4dU4KQ\nB1sbl+WMPZMnJ9hMRIm+pUhdwYleCtJ5Aqt1Wc1jony7kyNVEQVSEfBByGErS71F\nXnWrrDW9fnwGZ/yOtMYS9O6yrcZDDKE6v1q8FPtEMQKBgQDnEK/iUgWR3uouFops\nYLhybFqbSSTmEBAw65e7whsFapZQKHE+gk/M7sA+sfiNRTS/k1dgIu6ivctb2ZX2\nw7ILSV6ULtLhiYzoD5xB+iTFc2wHm5cvkwgU2BUtZkjf5bYWceUncDuJtDvn0F4O\nXCl+gZTp8MoWoQsVoYM3d7JNcQKBgQDd8klgxCrlUwTtfwMjcOuSFBRqIvFBnAt3\n94g6xgSyhS5hvsM2Xo4z2uuQX/lCslEs63jCF4wqLLcRdGiiS5l/9Niy6i4mE48s\nebfXSfQV12VSLCh2wVqw/Cu/1Pr0Bqc4Glm2h8/RzFQIX4lowjfyVFXaQiLbdjyQ\nVsOzSM1ddwKBgQCWqiXVb+Ab3ntaM+5sfqCmU4q9CHOb48t66pOUpRuTa425lLVK\nqhO4r9EA0HEeRIsBg+SMVhq+WP051eXX8oCspVmbS/DLiTIsuskLqDzD1uAREd4B\n8mBpnwAoCzLnc1RIzFk8Xw0jXDdXj2FVAbk4uOvNoulS2g1tPFRgHZdQsQKBgQCB\n2E5Pe1RxJ1mZrBXk9RoMMw0ibuDf9m/LNpiPceurmTjiXF0OgNEGy0vHAi7sczAE\nbJoQSwBoaBKN9qGEWWArOM5SFaj8A7NeXLNOE2jmIkaXhVgC6emp402hA/PxMbdA\nnkHgBKJzZeu/nkzgacebUPWNI+YKqKiT9P6285+ZzwKBgQCcMsA3sYvm0HQ6xsi4\nNQWJKo3hsWcHqW3cvuKfJ2pX3vrO8Ul3+sss8O9O/JMLGAo57IsMtPp44l4AEC94\nya3N/PdD5ylRRTOxA3ejVpnnKcoiPx4AzhoHn9A9N/RM8n1aKDV6ucf6oOJ6Ewq7\nfrWw7OdavhIT6zLGGg4FeNECEw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "workout-wizard@workout-wizard-337222.iam.gserviceaccount.com",
+  "client_id": "116223372354192167373",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/workout-wizard%40workout-wizard-337222.iam.gserviceaccount.com"
+}
