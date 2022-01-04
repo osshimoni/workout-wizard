@@ -46,7 +46,7 @@ def main():
     status = st.sidebar.selectbox("Start or Finish Workout:", ("","In Progress", "End"))
     if status == "In Progress":
 
-        with open(f"times/{today}_start", 'w') as start_time:
+        with open(f"{today}_start", 'w') as start_time:
             start_time.write(f'{datetime.now()}')
 
         location = st.sidebar.selectbox("Select a location:", ("YMCA", "Office"))
@@ -57,7 +57,7 @@ def main():
 
     elif status == "End":
         end_time = datetime.now()
-        with open(f"times/{today}_start") as f:
+        with open(f"{today}_start") as f:
             start_time = datetime.fromisoformat(f.read())
         end_workout(start_time, end_time)
 
