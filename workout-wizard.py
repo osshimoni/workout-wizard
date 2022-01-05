@@ -127,7 +127,7 @@ def main():
         st.sidebar.title(f'Workout duration: {duration}')
 
     elif status == '':
-        st.header('Use the menu to begin workout')
+        st.header('Use the menu on the left to begin workout')
 
 
 main()
