@@ -18,6 +18,8 @@ gc = gspread.service_account(filename="workout-wizard-337222-f628ea871ec6.json")
 today = date.today()
 
 def new_data(df):
+    st.subheader('Update data')
+    
     movement_list = df['Movement'].tolist()
     movement_list.append("New Movement")
     movement_list.insert(0,'')
